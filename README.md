@@ -10,3 +10,5 @@ Edit the HTML and add 3 buttons below the existing content:
 
 ### Exercise 2: Events and Attributes
 Add 2 buttons. When page initially displayed, the 1st button should be enabled and the 2nd button should be disabled. When the 1st button is clicked, the 2nd button should be enabled, and the first button be disabled. Clicking the 2nd button should enable the 1st buttonand disable the 2nd button and so on, alternating between buttons as they are clicked.
+
+

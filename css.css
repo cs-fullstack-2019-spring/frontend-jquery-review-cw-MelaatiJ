@@ -1,0 +1,14 @@
+.greenBorder /*makes a green border*/
+{
+    border: 3px solid lightgreen;
+}
+
+.redBorder   /*makes a red border*/
+{
+    border: 3px solid indianred;
+}
+
+.blueBorder      /*makes a blue border*/
+{
+    border: 3px solid deepskyblue;
+}
